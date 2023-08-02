@@ -10,20 +10,16 @@ Setup
 
 .env
 
-i.e.
-
 PORT - 8000
 
-## How to initialize/run your application 
+## How to initialize/run your application
 
-python main.py
+python manage.py runserver
+
+docker-compose up
 
 ## How to use your library (where applicable)
 
 ### Tests
 
-- How do you run tests?
-
-- Any tests of note?
-
-- Describe any tests that you did not complete, skipped, etc
+there isn't any test to run on the test.py
