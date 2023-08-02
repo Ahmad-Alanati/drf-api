@@ -1,21 +1,20 @@
-# LAB - Class xx
+# LAB - Class 31
 
-## Project: Project Name Here
+## Project: DRF API
 
-## Author: Student/Group Name
+## Author: ahmad jehad alanati
 
 ## Links and Resources
 
 Setup
 
-.env 
+.env
 
 i.e.
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
+PORT - 8000
 
-## How to initialize/run your application (where applicable)
+## How to initialize/run your application 
 
 python main.py
 
