@@ -1,30 +1,25 @@
-# LAB - Class xx
+# LAB - Class 31
 
-## Project: Project Name Here
+## Project: DRF API
 
-## Author: Student/Group Name
+## Author: ahmad jehad alanati
 
 ## Links and Resources
 
 Setup
 
-.env 
+.env
 
-i.e.
+PORT - 8000
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
+## How to initialize/run your application
 
-## How to initialize/run your application (where applicable)
+python manage.py runserver
 
-python main.py
+docker-compose up
 
 ## How to use your library (where applicable)
 
 ### Tests
 
-- How do you run tests?
-
-- Any tests of note?
-
-- Describe any tests that you did not complete, skipped, etc
+there isn't any test to run on the test.py
